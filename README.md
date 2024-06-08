@@ -39,7 +39,29 @@ To leverage historical gold price data to provide a clear understanding of the f
 * Based on historical data, what can be predicted about future trends in gold prices? What factors are likely to influence these trends?
 
 ## Key Insights
+* **Year Range Price:**
+   * **Highest Years:** 1980, 2011, and 2020
+   * **Lowest Years:** 1985 to 2005
+
+* **'Highest % Change' (1979):**
+   * Triggered by the Iranian Revolution and ensuing Middle East tensions, which caused a surge in oil prices.
+
+* **'Lowest % Change' (1981):**
+   * Occurred during a period of economic stability, marked by tight monetary policy measures aimed at combating high inflation rates.
+
+* **'Highest Closing Price' (1980, 2012, 2020):**
+   * 1980: Influenced by the Soviet invasion of Afghanistan and sustained geopolitical tensions.
+   * 2012: Amid the Eurozone debt crisis, concerns about economic stability drove gold prices to peak levels.
+   * 2020: The COVID-19 pandemic triggered global economic uncertainty, prompting investors to seek refuge in gold, pushing prices to record highs.
+
+* **'Low Closing Prices' (1987 to 2005):**
+   * Characterized by several economic downturns:
+     * 1987: The Black Monday stock market crash.
+     * 2000-2001: The dot-com bubble burst.
+     * 2005: Despite economic growth and low inflation, gold prices remained subdued due to reduced demand for safe-haven assets.
+       
 ### Dashboard
+![image](https://github.com/acsoteldo/Historical-Analysis-and-Future-Predictions-of-Gold-Prices/assets/76544489/101ba51d-4e6d-4c3f-9d30-91a8ce38720c)
 
 ## Next Steps
 * Utilize insights from recent trends and volatility analysis to optimize investment portfolios. By understanding periods of high volatility and significant price changes, investors can make more informed decisions on buying, holding, or selling gold.
