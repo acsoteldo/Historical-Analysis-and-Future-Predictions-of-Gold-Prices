@@ -1,2 +1,50 @@
-# Historical-Analysis-and-Future-Predictions-of-Gold-Prices
+# Historical Analysis and Future Predictions of Gold Prices
 Understanding Trends, Volatility, and Influencing Factors
+
+## Getting Started: 
+1. Report and presentation
+2. data/: Contains cleaned datasets used for the analysis
+3. notebooks/: Jupyter notebooks
+4. visualizations/: Tableau visualizations and dashboard
+5. scripts/: Python and SQL scripts for data analysis
+
+### Tools:
+Excel, Jupyter, Python, SQL, Tableau
+
+### Data Sources:
+The base data for this dataset was retrieved from https://www.macrotrends.net/1333/historical-gold-prices-100-year-chart.
+
+The analysis will be based on the cleaned dataset, which includes the following fields:
+* Year: The specific year for the data.
+* Average Closing Price: The average closing price of the stock for the year.
+* Year Open: The opening price of the stock at the beginning of the year.
+* Year High: The highest price of the stock during the year.
+* Year Low: The lowest price of the stock during the year.
+* Year Range Price: The range of stock prices for the year (difference between high and low).
+* Year Close: The closing price of the stock at the end of the year.
+* Annual % Change: The percentage change in the closing price from the previous year to the current year.
+
+## Problem Definition
+Gold has historically been a valuable asset and commodity, serving as a hedge against inflation, a safe haven in times of economic uncertainty, and a component in diverse investment portfolios. Understanding the historical trends in gold prices can provide critical insights for investors, policymakers, and economists. This analysis leverages a dataset of historical gold prices to explore patterns, identify significant changes, and forecast potential future trends.
+
+## Hypothesis
+Significant economic events (e.g., recessions, financial crises) lead to substantial changes in gold prices.
+
+## Vision
+To leverage historical gold price data to provide a clear understanding of the factors influencing gold price movements and to create a robust framework for predicting future trends, aiding investors, policymakers, and economists in making informed decisions.
+
+## Objective
+* Identify and discuss years with significant changes in gold prices. What were the major economic events, policy changes, or other factors contributing to these fluctuations?
+* Analyze the annual price volatility of gold and its implications for investors.
+* Based on historical data, what can be predicted about future trends in gold prices? What factors are likely to influence these trends?
+
+## Key Insights
+### Dashboard
+
+## Next Steps
+* Utilize insights from recent trends and volatility analysis to optimize investment portfolios. By understanding periods of high volatility and significant price changes, investors can make more informed decisions on buying, holding, or selling gold.
+* Closely monitor key economic indicators that have been shown to influence gold prices. This includes tracking inflation rates, interest rates, and geopolitical events. Implement responsive policies to mitigate adverse effects on the gold market.
+* Conduct detailed studies on the significant price changes identified in this analysis. Investigate the underlying economic events and policy changes during those periods to better understand their impact on gold prices. This research can contribute to more robust economic models and predictions.
+
+## Contact
+For any inquiries or feedback, please contact acsoteldo01@gmail.com.
