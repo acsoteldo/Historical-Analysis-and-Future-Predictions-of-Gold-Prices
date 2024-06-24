@@ -34,9 +34,11 @@ Significant economic events (e.g., recessions, financial crises) lead to substan
 To leverage historical gold price data to provide a clear understanding of the factors influencing gold price movements and to create a robust framework for predicting future trends, aiding investors, policymakers, and economists in making informed decisions.
 
 ## Objective
-* Identify and discuss years with significant changes in gold prices. What were the major economic events, policy changes, or other factors contributing to these fluctuations?
-* Analyze the annual price volatility of gold and its implications for investors.
-* Based on historical data, what can be predicted about future trends in gold prices? What factors are likely to influence these trends?
+* Identify and analyze the long-term trends in gold prices based on average closing prices over consecutive years.
+* Determine which years experienced significant increases or decreases and investigate potential reasons for these fluctuations.
+* Analyze the difference between the highest and lowest prices each year to assess how volatile the market has been and what implications this volatility may have for investors.
+* Explore the relationship between the opening prices and average closing prices of gold for each year. Determine if there is a consistent pattern or correlation between these two variables.
+* Utilize historical data to forecast potential trends in gold prices. 
 
 ## Key Insights
 * **Year Range Price:**
